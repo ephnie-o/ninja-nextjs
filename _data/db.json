@@ -1,0 +1,25 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the footer links please",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nemo esse ad, voluptatibus autem pariatur, vero adipisci dolores accusamus nostrum nulla cumque quod impedit quas praesentium facilis odio dolorum velit!",
+      "priority": "low",
+      "user_email": "mario@netninja.dev"
+    },
+    {
+      "id": "2",
+      "title": "Add in a new stylsheet",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam nulla eos laudantium nostrum, quia iusto, at omnis adipisci eius fuga libero. Libero voluptate commodi error non? Molestias numquam id veniam?",
+      "priority": "medium",
+      "user_email": "peach@netninja.dev"
+    },
+    {
+      "id": "3",
+      "title": "Fix the footer",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos sit dicta illo enim totam eius id quis facere? Dolorum, voluptates. Ab atque, unde fugit provident eligendi molestiae accusantium ut adipisci!",
+      "priority": "high",
+      "user_email": "mario@netninja.dev"
+    }
+  ]
+}
